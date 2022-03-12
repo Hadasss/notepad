@@ -36,5 +36,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/80355222/158037468-48e674b6-551d-432f-9896-42e26e3f37ca.png)
+
+![image](https://user-images.githubusercontent.com/80355222/158037485-5537090d-83b1-44a1-96b3-be4304053f5e.png)
+
+
 
 ## Link to Live Deployment
+https://notepad1234.herokuapp.com/
