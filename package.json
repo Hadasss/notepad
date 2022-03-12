@@ -1,14 +1,28 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "AS A small business owner",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hadasss/notepad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hadasss/notepad/issues"
+  },
+  "homepage": "https://github.com/Hadasss/notepad#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
